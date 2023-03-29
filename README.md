@@ -7,8 +7,8 @@ Estudante de Análise e Desenvolvimento de Sistemas
 Gosto dos desafios que a área de tecnologia pode me proporcionar, esse é o combustível que me move e faz eu querer aprender cada vez mais.
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiselaSilva&show_icons=true&theme=dracula"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselaSilva&layout=compact&theme=dracula"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GiselaSilva&show_icons=true&theme=dracula"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselaSilva&layout=compact&theme=dracula"/>
  
 </div>
 
